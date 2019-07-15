@@ -1,0 +1,13 @@
+{
+  "vendors.css": "./static/css/vendors.a83edf4e.chunk.css",
+  "vendors.js": "./static/js/vendors.587209d2.chunk.js",
+  "Chart.js": "./static/js/Chart.e4313ac7.chunk.js",
+  "main.css": "./static/css/main.db45c63d.chunk.css",
+  "main.js": "./static/js/main.7e9874c9.chunk.js",
+  "runtime~main.js": "./static/js/runtime~main.5e232c26.js",
+  "index.html": "./index.html",
+  "precache-manifest.0680fa63e7f1d01ff3b081d94a267610.js": "./precache-manifest.0680fa63e7f1d01ff3b081d94a267610.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/main.db45c63d.chunk.css.map": "./static/css/main.db45c63d.chunk.css.map",
+  "static/css/vendors.a83edf4e.chunk.css.map": "./static/css/vendors.a83edf4e.chunk.css.map"
+}

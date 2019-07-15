@@ -1,0 +1,52 @@
+{
+  "name": "coolsummer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.16.6",
+    "echarts": "^4.2.0-rc.2",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "loadsh": "^0.0.3",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-highcharts": "^16.0.2",
+    "react-intl": "^2.8.0",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "redux-promise-middleware": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject",
+    "analyze": "source-map-explorer build/static/js/main.*"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.3.0",
+    "babel-plugin-import": "^1.11.0",
+    "customize-cra": "^0.2.11",
+    "font-carrier": "^0.1.0",
+    "react-app-rewire-less": "^2.1.0",
+    "react-app-rewired": "^2.1.0",
+    "source-map-explorer": "^1.8.0",
+    "webpack-bundle-analyzer": "^3.0.4"
+  },
+  "homepage": "."
+}
